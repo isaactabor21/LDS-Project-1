@@ -18,3 +18,5 @@ collEDGE is also interested in any general insights about trends in campus diver
 **Deliverables:**
 - A polished, 5-7 minute slide deck presentation featuring high-quality, well-motivated, well-presented visual and analytic findings.
 - An interactive chart or dashboard (in Tableau, Plotly.py, or other similar tool) allowing users to conduct their own investigation into your research question.
+
+You can find my code, slides and Tableau Workbooks in this GitHub repository.
