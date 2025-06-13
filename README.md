@@ -14,3 +14,7 @@ collEDGE is also interested in any general insights about trends in campus diver
 - What characteristics are desirable in a school? How do these vary across different types of students, and how can you account for this diversity of backgrounds and goals in your recommendations or case studies?
 - How do your rankings or recommendations compare to the more popular ones published by Business Insider and the like? Why should students prefer collEDGE’s rankings?
 - What’s going on in higher ed right now? 
+
+**Deliverables:**
+- A polished, 5-7 minute slide deck presentation featuring high-quality, well-motivated, well-presented visual and analytic findings.
+- An interactive chart or dashboard (in Tableau, Plotly.py, or other similar tool) allowing users to conduct their own investigation into your research question.
