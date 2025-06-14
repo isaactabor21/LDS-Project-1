@@ -5,6 +5,7 @@ This is a project that I completed as a part of the Forge program (https://joinf
 The Project Brief was as follows:
 
 **Source:** US DoE and others (via Tidy Tuesday, https://github.com/rfordatascience/tidytuesday/blob/main/data/2020/2020-03-10/readme.md)
+- Please consult the above link for data dictionary!
 
 **Employer and task:**
 - You’re a data scientist at collEDGE, a startup that helps high school students from all backgrounds focus their application efforts towards schools that are the best possible fit for them. collEDGE is interested in you leveraging the included data to provide data-driven college recommendations to students, especially for those they might not have heard of before. 
