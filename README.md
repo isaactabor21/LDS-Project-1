@@ -19,4 +19,4 @@ collEDGE is also interested in any general insights about trends in campus diver
 - A polished, 5-7 minute slide deck presentation featuring high-quality, well-motivated, well-presented visual and analytic findings.
 - An interactive chart or dashboard (in Tableau, Plotly.py, or other similar tool) allowing users to conduct their own investigation into your research question.
 
-You can find my code, slides and Tableau Workbooks in this GitHub repository.
+You can find my code, slides and Tableau Workbooks in this GitHub repository. Note that Tableau Workbooks are packaged with extracts of the data, meaning if the data source is updated, they may not reflect updated source of data. This is because Tableau Public for Students (free) does not support live connections as of June 13, 2025. 
