@@ -1,6 +1,6 @@
-# LDS-Project-1 College tuition, diversity, and pay
+# Launch Data Science (LDS)-Project-1 College tuition, diversity, and pay
 
-This is a project that I completed as a part of the Forge program (https://joinforge.co/launch-ds) that I eventually taught. It was completed over the course of one week.
+This is a project that I completed individually as a part of the Forge program (https://joinforge.co/launch-ds) that I eventually taught. It was completed over the course of one week.
 
 The Project Brief was as follows:
 
