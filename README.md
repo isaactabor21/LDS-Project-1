@@ -1,6 +1,6 @@
 # Launch Data Science (LDS)-Project-1 College tuition, diversity, and pay
 
-This is a project that I completed individually as a part of the Forge program (https://joinforge.co/launch-ds) that I eventually taught. It was completed over the course of one week.
+This is a project that I completed individually as a part of the Forge program (https://joinforge.co/launch-ds) that I eventually taught. It was completed over the course of one week. You can find my Jupyter notebook and two Tableau workbooks in the Git Repository as well as the slides I presented to my Forge data science cohort, instructors, and Forge alumni in the workforce. 
 
 The Project Brief was as follows:
 
